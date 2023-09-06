@@ -38,6 +38,17 @@
 
 }
 
+#calculo {
+    background-color: white;
+    width: 207px;
+    height: 30px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 28px;
+    color: black;
+    text-align: right;
+}
+
 .alinhamento {
     height: 106px;
 }
